@@ -108,46 +108,6 @@ The root composition is `HardalMarketing`. You can customize brand colors, segme
   } as const;
 ```
 
-## Case Details (Hardal Social Case)
-
-© 2025 All Rights Reserved.
-
-**Switch**, is the product of Hardal, Inc.
-
-**Hardal** is a server-side measurement platform that connects your first-party data from any source to any destination for websites and mobile apps.
-
-### Case'in Amacı
-Merhaba! Hardal ekibine katılmak istediğin çok teşekkürler! Herkese şans vermek adına ilk adımda senden bir video hazırlamanı isteyeceğiz.
-
-### Ne Yapman Gerekiyor?
-- **Hedef Kitle**: Pazarlamacılar (performance marketing, digital marketing, e-commerce marketing, marketing analytics)
-- **Ana Mesaj**: “Neden Hardal kullanmalısın?”
-- **Video Formatı**: İstediğin stili seç:
-  - UGC tarzı
-  - AI-generated video
-  - Animasyon/motion graphics
-  - Talking head
-  - Screen recording + voiceover
-  - Hybrid
-
-### İçerik Önerileri
-Hardal'ın çözdüğü bir çok sorun var, kendin araştırarak farklı noktalar da sunabilirsin.
-
-- Hardal nedir? “Hardal is a server-side measurement platform that connects your first-party data from any source to any destination for websites and mobile apps.”
-- Özellikle veri kaybı ile mücahadele edilen bu dönemde, Hardal kayıpsız bir şekide hem web hem app'te veri toplamanı ve yönetmeni sağlıyor. Sitemizde bir çok case study ve açıklama mevcut.
-
-### Teknik Şartlar
-Hiçbir şart yok, sadece neler yapabildiğini görmek istiyoruz ve heyecanla bekliyoruz!
-
-### Ödül Sistemi
-- Beğenirsek: İkinci tura davet
-- Çok beğenip sosyal medyada paylaşırsak: Çalışmasak bile 50$ gift card!
-
-### Teslim
-Videoyu hazırladığında YouTube'da unlisted yükle ve buradaki formu doldur!
-
-Not: Mükemmel olmak zorunda değil. Sadece pazarlamacıların Hardal'a “Tam aradığım şey” demesini sağla! 🌭
-
 ## Development
 
 - Lint: `npm run lint`
@@ -171,7 +131,7 @@ UNLICENSED. © 2025 Hardal, Inc. All rights reserved.
   </a>
 </p>
 
-Welcome to your Remotion project!
+
 
 ## Commands
 
